@@ -1,0 +1,510 @@
+thematic_code,thematic_title,code_type_referentiel,rome_code,rome_title
+001,Métiers de l'environnement et du développement durable,7,A1201,Bûcheronnage et élagage
+001,Métiers de l'environnement et du développement durable,7,A1202,Entretien des espaces naturels
+001,Métiers de l'environnement et du développement durable,7,A1203,Aménagement et entretien des espaces verts
+001,Métiers de l'environnement et du développement durable,7,A1204,Protection du patrimoine naturel
+001,Métiers de l'environnement et du développement durable,7,A1205,Sylviculture
+001,Métiers de l'environnement et du développement durable,7,A1301,Conseil et assistance technique en agriculture et environnement naturel
+001,Métiers de l'environnement et du développement durable,7,A1303,Ingénierie en agriculture et environnement naturel
+001,Métiers de l'environnement et du développement durable,7,E1103,Communication
+001,Métiers de l'environnement et du développement durable,7,F1101,Architecture du BTP et du paysage
+001,Métiers de l'environnement et du développement durable,7,F1103,Contrôle et diagnostic technique du bâtiment
+001,Métiers de l'environnement et du développement durable,7,F1105,Études géologiques
+001,Métiers de l'environnement et du développement durable,7,F1106,Ingénierie et études du BTP
+001,Métiers de l'environnement et du développement durable,7,F1201,Conduite de travaux du BTP et de travaux paysagers
+001,Métiers de l'environnement et du développement durable,7,F1202,Direction de chantier du BTP
+001,Métiers de l'environnement et du développement durable,7,F1501,Montage de structures et de charpentes bois
+001,Métiers de l'environnement et du développement durable,7,F1503,Réalisation - installation d'ossatures bois
+001,Métiers de l'environnement et du développement durable,7,F1602,Électricité bâtiment
+001,Métiers de l'environnement et du développement durable,7,F1603,Installation d'équipements sanitaires et thermiques
+001,Métiers de l'environnement et du développement durable,7,F1607,Pose de fermetures menuisées
+001,Métiers de l'environnement et du développement durable,7,F1610,Pose et restauration de couvertures
+001,Métiers de l'environnement et du développement durable,7,F1613,Travaux d'étanchéité et d'isolation
+001,Métiers de l'environnement et du développement durable,7,F1703,Maçonnerie
+001,Métiers de l'environnement et du développement durable,7,F1705,Pose de canalisations
+001,Métiers de l'environnement et du développement durable,7,G1102,Promotion du tourisme local
+001,Métiers de l'environnement et du développement durable,7,G1201,"Accompagnement de voyages, d'activités culturelles ou sportives"
+001,Métiers de l'environnement et du développement durable,7,G1202,Animation d'activités culturelles ou ludiques
+001,Métiers de l'environnement et du développement durable,7,G1403,Gestion de structure de loisirs ou d'hébergement touristique
+001,Métiers de l'environnement et du développement durable,7,H1206,"Management et ingénierie études, recherche et développement industriel"
+001,Métiers de l'environnement et du développement durable,7,H1301,Inspection de conformité
+001,Métiers de l'environnement et du développement durable,7,H1302,Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels
+001,Métiers de l'environnement et du développement durable,7,H1303,Intervention technique en Hygiène Sécurité Environnement -HSE- industriel
+001,Métiers de l'environnement et du développement durable,7,H1501,Direction de laboratoire d'analyse industrielle
+001,Métiers de l'environnement et du développement durable,7,H1503,Intervention technique en laboratoire d'analyse industrielle
+001,Métiers de l'environnement et du développement durable,7,H2701,Pilotage d'installation énergétique et pétrochimique
+001,Métiers de l'environnement et du développement durable,7,I1304,Installation et maintenance d'équipements industriels et d'exploitation
+001,Métiers de l'environnement et du développement durable,7,I1306,"Installation et maintenance en froid, conditionnement d'air"
+001,Métiers de l'environnement et du développement durable,7,I1308,Maintenance d'installation de chauffage
+001,Métiers de l'environnement et du développement durable,7,I1503,Intervention en milieux et produits nocifs
+001,Métiers de l'environnement et du développement durable,7,K1702,Direction de la sécurité civile et des secours
+001,Métiers de l'environnement et du développement durable,7,K1705,Sécurité civile et secours
+001,Métiers de l'environnement et du développement durable,7,K1802,Développement local
+001,Métiers de l'environnement et du développement durable,7,K1903,Défense et conseil juridique
+001,Métiers de l'environnement et du développement durable,7,K2301,Distribution et assainissement d'eau
+001,Métiers de l'environnement et du développement durable,7,K2302,Management et inspection en environnement urbain
+001,Métiers de l'environnement et du développement durable,7,K2303,Nettoyage des espaces urbains
+001,Métiers de l'environnement et du développement durable,7,K2304,Revalorisation de produits industriels
+001,Métiers de l'environnement et du développement durable,7,K2305,Salubrité et traitement de nuisibles
+001,Métiers de l'environnement et du développement durable,7,K2306,Supervision d'exploitation éco-industrielle
+001,Métiers de l'environnement et du développement durable,7,K2402,"Recherche en sciences de l'univers, de la matière et du vivant"
+001,Métiers de l'environnement et du développement durable,7,M1402,Conseil en organisation et management d'entreprise
+001,Métiers de l'environnement et du développement durable,7,M1403,Études et prospectives socio-économiques
+001,Métiers de l'environnement et du développement durable,7,M1808,Information géographique
+001,Métiers de l'environnement et du développement durable,7,M1809,Information météorologique
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,F1107,Mesures topographiques
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,F1302,Conduite d'engins de terrassement et de carrière
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,F1702,Construction de routes et voies
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,F1704,Préparation du gros oeuvre et des travaux publics
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,I1302,Installation et maintenance d'automatismes
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,I1305,Installation et maintenance électronique
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,I1310,Maintenance mécanique industrielle
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,I1502,Intervention en milieu subaquatique
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,I1503,Intervention en milieux et produits nocifs
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,I1602,Maintenance d'aéronefs
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,I1604,Mécanique automobile et entretien de véhicules
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,I1605,Mécanique de marine
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,K1701,Personnel de la Défense
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,K1702,Direction de la sécurité civile et des secours
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,K1703,Direction opérationnelle de la défense
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,K1704,Management de la sécurité publique
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,K1705,Sécurité civile et secours
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,K1706,Sécurité publique
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,M1807,Exploitation de systèmes de communication et de commandement
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,M1808,Information géographique
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,M1809,Information météorologique
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,N2102,Pilotage et navigation technique aérienne
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,N2202,Contrôle de la navigation aérienne
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,N2203,Exploitation des pistes aéroportuaires
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,N3101,Encadrement de la navigation maritime
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,N3102,Équipage de la navigation maritime
+002,"Métiers de la défense et de la sécurité publique (hors logistique, santé, tertiaire, restauration)",7,N4101,Conduite de transport de marchandises sur longue distance
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,A1204,Protection du patrimoine naturel
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,B1101,Création en arts plastiques
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,B1201,Réalisation d'objets décoratifs et utilitaires en céramique et matériaux de synthèse
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,B1302,Décoration d'objets d'art et artisanaux
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,B1402,Reliure et restauration de livres et archives
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,B1501,Fabrication et réparation d'instruments de musique
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,B1601,Métallerie d'art
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,B1602,Réalisation d'objets artistiques et fonctionnels en verre
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,B1603,"Réalisation d'ouvrages en bijouterie, joaillerie et orfèvrerie"
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,B1701,Conservation et reconstitution d'espèces animales
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,B1804,Réalisation d'ouvrages d'art en fils
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,B1806,Tapisserie - décoration en ameublement
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,D1201,"Achat vente d'objets d'art, anciens ou d'occasion"
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,F1101,Architecture du BTP et du paysage
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,F1501,Montage de structures et de charpentes bois
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,F1601,"Application et décoration en plâtre, stuc et staff"
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,F1610,Pose et restauration de couvertures
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,F1612,Taille et décoration de pierres
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,G1102,Promotion du tourisme local
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,G1201,"Accompagnement de voyages, d'activités culturelles ou sportives"
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,G1202,Animation d'activités culturelles ou ludiques
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,H2206,Réalisation de menuiserie bois et tonnellerie
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,H2207,Réalisation de meubles en bois
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,H2208,Réalisation d'ouvrages décoratifs en bois
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,I1101,Direction et ingénierie en entretien infrastructure et bâti
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,K1601,Gestion de l'information et de la documentation
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,K1602,Gestion de patrimoine culturel
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,K2108,Enseignement supérieur
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,K2401,Recherche en sciences de l'homme et de la société
+003,Métiers du patrimoine et de la restauration d'oeuvres d'art,7,K2402,"Recherche en sciences de l'univers, de la matière et du vivant"
+004,Métiers de l'intelligence économique,7,A1303,Ingénierie en agriculture et environnement naturel
+004,Métiers de l'intelligence économique,7,D1402,Relation commerciale grands comptes et entreprises
+004,Métiers de l'intelligence économique,7,D1406,Management en force de vente
+004,Métiers de l'intelligence économique,7,D1407,Relation technico-commerciale
+004,Métiers de l'intelligence économique,7,E1101,Animation de site multimédia
+004,Métiers de l'intelligence économique,7,E1103,Communication
+004,Métiers de l'intelligence économique,7,E1106,Journalisme et information média
+004,Métiers de l'intelligence économique,7,F1106,Ingénierie et études du BTP
+004,Métiers de l'intelligence économique,7,H1102,Management et ingénierie d'affaires
+004,Métiers de l'intelligence économique,7,H1206,"Management et ingénierie études, recherche et développement industriel"
+004,Métiers de l'intelligence économique,7,H1210,"Intervention technique en études, recherche et développement"
+004,Métiers de l'intelligence économique,7,H1302,Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels
+004,Métiers de l'intelligence économique,7,K1401,Conception et pilotage de la politique des pouvoirs publics
+004,Métiers de l'intelligence économique,7,K1404,Mise en oeuvre et pilotage de la politique des pouvoirs publics
+004,Métiers de l'intelligence économique,7,K1405,Représentation de l'État sur le territoire national ou international
+004,Métiers de l'intelligence économique,7,K1601,Gestion de l'information et de la documentation
+004,Métiers de l'intelligence économique,7,K1704,Management de la sécurité publique
+004,Métiers de l'intelligence économique,7,K1903,Défense et conseil juridique
+004,Métiers de l'intelligence économique,7,K2402,"Recherche en sciences de l'univers, de la matière et du vivant"
+004,Métiers de l'intelligence économique,7,K2502,Management de sécurité privée
+004,Métiers de l'intelligence économique,7,M1101,Achats
+004,Métiers de l'intelligence économique,7,M1102,Direction des achats
+004,Métiers de l'intelligence économique,7,M1201,Analyse et ingénierie financière
+004,Métiers de l'intelligence économique,7,M1204,Contrôle de gestion
+004,Métiers de l'intelligence économique,7,M1301,Direction de grande entreprise ou d'établissement public
+004,Métiers de l'intelligence économique,7,M1302,Direction de petite ou moyenne entreprise
+004,Métiers de l'intelligence économique,7,M1402,Conseil en organisation et management d'entreprise
+004,Métiers de l'intelligence économique,7,M1403,Études et prospectives socio-économiques
+004,Métiers de l'intelligence économique,7,M1503,Management des ressources humaines
+004,Métiers de l'intelligence économique,7,M1703,Management et gestion de produit
+004,Métiers de l'intelligence économique,7,M1705,Marketing
+004,Métiers de l'intelligence économique,7,M1706,Promotion des ventes
+004,Métiers de l'intelligence économique,7,M1707,Stratégie commerciale
+004,Métiers de l'intelligence économique,7,M1801,Administration de systèmes d'information
+004,Métiers de l'intelligence économique,7,M1802,Expertise et support en systèmes d'information
+004,Métiers de l'intelligence économique,7,M1803,Direction des systèmes d'information
+004,Métiers de l'intelligence économique,7,M1804,Études et développement de réseaux de télécoms
+004,Métiers de l'intelligence économique,7,M1805,Études et développement informatique
+004,Métiers de l'intelligence économique,7,M1806,Conseil et maîtrise d'ouvrage en systèmes d'information
+005,Métiers de la recherche,7,A1303,Ingénierie en agriculture et environnement naturel
+005,Métiers de la recherche,7,F1105,Études géologiques
+005,Métiers de la recherche,7,H1206,"Management et ingénierie études, recherche et développement industriel"
+005,Métiers de la recherche,7,H1210,"Intervention technique en études, recherche et développement"
+005,Métiers de la recherche,7,K1602,Gestion de patrimoine culturel
+005,Métiers de la recherche,7,K2108,Enseignement supérieur
+005,Métiers de la recherche,7,K2401,Recherche en sciences de l'homme et de la société
+005,Métiers de la recherche,7,K2402,"Recherche en sciences de l'univers, de la matière et du vivant"
+005,Métiers de la recherche,7,M1808,Information géographique
+005,Métiers de la recherche,7,M1809,Information météorologique
+006,"Métiers de la mer, du nautisme et de la construction navale",7,A1204,Protection du patrimoine naturel
+006,"Métiers de la mer, du nautisme et de la construction navale",7,A1301,Conseil et assistance technique en agriculture et environnement naturel
+006,"Métiers de la mer, du nautisme et de la construction navale",7,A1303,Ingénierie en agriculture et environnement naturel
+006,"Métiers de la mer, du nautisme et de la construction navale",7,A1404,Aquaculture
+006,"Métiers de la mer, du nautisme et de la construction navale",7,A1406,Encadrement équipage de la pêche
+006,"Métiers de la mer, du nautisme et de la construction navale",7,A1415,Équipage de la pêche
+006,"Métiers de la mer, du nautisme et de la construction navale",7,A1417,Saliculture
+006,"Métiers de la mer, du nautisme et de la construction navale",7,B1802,Réalisation d'articles en cuir et matériaux souples (hors vêtement)
+006,"Métiers de la mer, du nautisme et de la construction navale",7,D1105,Poissonnerie
+006,"Métiers de la mer, du nautisme et de la construction navale",7,D1211,Vente en articles de sport et loisirs
+006,"Métiers de la mer, du nautisme et de la construction navale",7,D1404,Relation commerciale en vente de véhicules
+006,"Métiers de la mer, du nautisme et de la construction navale",7,F1105,Études géologiques
+006,"Métiers de la mer, du nautisme et de la construction navale",7,F1203,Direction et ingénierie d'exploitation de gisements et de carrières
+006,"Métiers de la mer, du nautisme et de la construction navale",7,F1301,Conduite de grue
+006,"Métiers de la mer, du nautisme et de la construction navale",7,F1401,Extraction liquide et gazeuse
+006,"Métiers de la mer, du nautisme et de la construction navale",7,F1503,Réalisation - installation d'ossatures bois
+006,"Métiers de la mer, du nautisme et de la construction navale",7,F1604,Montage d'agencements
+006,"Métiers de la mer, du nautisme et de la construction navale",7,G1204,Éducation en activités sportives
+006,"Métiers de la mer, du nautisme et de la construction navale",7,H1206,"Management et ingénierie études, recherche et développement industriel"
+006,"Métiers de la mer, du nautisme et de la construction navale",7,H2902,Chaudronnerie - tôlerie
+006,"Métiers de la mer, du nautisme et de la construction navale",7,H2911,Réalisation de structures métalliques
+006,"Métiers de la mer, du nautisme et de la construction navale",7,H2913,Soudage manuel
+006,"Métiers de la mer, du nautisme et de la construction navale",7,H2914,Réalisation et montage en tuyauterie
+006,"Métiers de la mer, du nautisme et de la construction navale",7,H3203,Fabrication de pièces en matériaux composites
+006,"Métiers de la mer, du nautisme et de la construction navale",7,H3404,Peinture industrielle
+006,"Métiers de la mer, du nautisme et de la construction navale",7,I1309,Maintenance électrique
+006,"Métiers de la mer, du nautisme et de la construction navale",7,I1502,Intervention en milieu subaquatique
+006,"Métiers de la mer, du nautisme et de la construction navale",7,I1601,Installation et maintenance en nautisme
+006,"Métiers de la mer, du nautisme et de la construction navale",7,I1605,Mécanique de marine
+006,"Métiers de la mer, du nautisme et de la construction navale",7,I1607,"Réparation de cycles, motocycles et motoculteurs de loisirs"
+006,"Métiers de la mer, du nautisme et de la construction navale",7,K1702,Direction de la sécurité civile et des secours
+006,"Métiers de la mer, du nautisme et de la construction navale",7,K1704,Management de la sécurité publique
+006,"Métiers de la mer, du nautisme et de la construction navale",7,K1705,Sécurité civile et secours
+006,"Métiers de la mer, du nautisme et de la construction navale",7,K1706,Sécurité publique
+006,"Métiers de la mer, du nautisme et de la construction navale",7,K2402,"Recherche en sciences de l'univers, de la matière et du vivant"
+006,"Métiers de la mer, du nautisme et de la construction navale",7,L1401,Sportif professionnel
+006,"Métiers de la mer, du nautisme et de la construction navale",7,M1807,Exploitation de systèmes de communication et de commandement
+006,"Métiers de la mer, du nautisme et de la construction navale",7,M1808,Information géographique
+006,"Métiers de la mer, du nautisme et de la construction navale",7,M1809,Information météorologique
+006,"Métiers de la mer, du nautisme et de la construction navale",7,N3101,Encadrement de la navigation maritime
+006,"Métiers de la mer, du nautisme et de la construction navale",7,N3102,Équipage de la navigation maritime
+006,"Métiers de la mer, du nautisme et de la construction navale",7,N3103,Navigation fluviale
+006,"Métiers de la mer, du nautisme et de la construction navale",7,N3201,Exploitation des opérations portuaires et du transport maritime
+006,"Métiers de la mer, du nautisme et de la construction navale",7,N3202,Exploitation du transport fluvial
+006,"Métiers de la mer, du nautisme et de la construction navale",7,N3203,Manutention portuaire
+007,Métiers de l'aéronautique,7,H1101,Assistance et support technique client
+007,Métiers de l'aéronautique,7,H1203,Conception et dessin produits mécaniques
+007,Métiers de l'aéronautique,7,H1206,"Management et ingénierie études, recherche et développement industriel"
+007,Métiers de l'aéronautique,7,H1207,Rédaction technique
+007,Métiers de l'aéronautique,7,H1209,Intervention technique en études et développement électronique
+007,Métiers de l'aéronautique,7,H1401,Management et ingénierie gestion industrielle et logistique
+007,Métiers de l'aéronautique,7,H1402,Management et ingénierie méthodes et industrialisation
+007,Métiers de l'aéronautique,7,H1403,Intervention technique en gestion industrielle et logistique
+007,Métiers de l'aéronautique,7,H1404,Intervention technique en méthodes et industrialisation
+007,Métiers de l'aéronautique,7,H1502,Management et ingénierie qualité industrielle
+007,Métiers de l'aéronautique,7,H1506,Intervention technique qualité en mécanique et travail des métaux
+007,Métiers de l'aéronautique,7,H2502,Management et ingénierie de production
+007,Métiers de l'aéronautique,7,H2602,Câblage électrique et électromécanique
+007,Métiers de l'aéronautique,7,H2901,Ajustement et montage de fabrication
+007,Métiers de l'aéronautique,7,H2902,Chaudronnerie - tôlerie
+007,Métiers de l'aéronautique,7,H2903,Conduite d'équipement d'usinage
+007,Métiers de l'aéronautique,7,H2905,Conduite d'équipement de formage et découpage des matériaux
+007,Métiers de l'aéronautique,7,H2907,Conduite d'installation de production des métaux
+007,Métiers de l'aéronautique,7,H3203,Fabrication de pièces en matériaux composites
+007,Métiers de l'aéronautique,7,H3402,Conduite de traitement par dépôt de surface
+007,Métiers de l'aéronautique,7,H3404,Peinture industrielle
+007,Métiers de l'aéronautique,7,I1102,Management et ingénierie de maintenance industrielle
+007,Métiers de l'aéronautique,7,I1602,Maintenance d'aéronefs
+007,Métiers de l'aéronautique,7,K2503,Sécurité et surveillance privées
+007,Métiers de l'aéronautique,7,M1101,Achats
+007,Métiers de l'aéronautique,7,M1805,Études et développement informatique
+007,Métiers de l'aéronautique,7,N2101,Navigation commerciale aérienne
+007,Métiers de l'aéronautique,7,N2102,Pilotage et navigation technique aérienne
+007,Métiers de l'aéronautique,7,N2201,Personnel d'escale aéroportuaire
+007,Métiers de l'aéronautique,7,N2202,Contrôle de la navigation aérienne
+007,Métiers de l'aéronautique,7,N2203,Exploitation des pistes aéroportuaires
+007,Métiers de l'aéronautique,7,N2204,Préparation des vols
+007,Métiers de l'aéronautique,7,N2205,Direction d'escale et exploitation aéroportuaire
+008,Métiers de la sécurité publique et privée,7,F1204,Qualité Sécurité Environnement et protection santé du BTP
+008,Métiers de la sécurité publique et privée,7,H1302,Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels
+008,Métiers de la sécurité publique et privée,7,H1303,Intervention technique en Hygiène Sécurité Environnement -HSE- industriel
+008,Métiers de la sécurité publique et privée,7,I1202,Entretien et surveillance du tracé routier
+008,Métiers de la sécurité publique et privée,7,K1702,Direction de la sécurité civile et des secours
+008,Métiers de la sécurité publique et privée,7,K1704,Management de la sécurité publique
+008,Métiers de la sécurité publique et privée,7,K1705,Sécurité civile et secours
+008,Métiers de la sécurité publique et privée,7,K1706,Sécurité publique
+008,Métiers de la sécurité publique et privée,7,K1707,Surveillance municipale
+008,Métiers de la sécurité publique et privée,7,K2501,Gardiennage de locaux
+008,Métiers de la sécurité publique et privée,7,K2502,Management de sécurité privée
+008,Métiers de la sécurité publique et privée,7,K2503,Sécurité et surveillance privées
+009,Métiers du multimédia,7,E1101,Animation de site multimédia
+009,Métiers du multimédia,7,E1103,Communication
+009,Métiers du multimédia,7,E1104,Conception de contenus multimédias
+009,Métiers du multimédia,7,E1106,Journalisme et information média
+009,Métiers du multimédia,7,E1205,Réalisation de contenus multimédias
+009,Métiers du multimédia,7,E1401,Développement et promotion publicitaire
+009,Métiers du multimédia,7,E1402,Élaboration de plan média
+009,Métiers du multimédia,7,G1202,Animation d'activités culturelles ou ludiques
+009,Métiers du multimédia,7,K1601,Gestion de l'information et de la documentation
+009,Métiers du multimédia,7,L1510,Films d'animation et effets spéciaux
+009,Métiers du multimédia,7,M1703,Management et gestion de produit
+009,Métiers du multimédia,7,M1705,Marketing
+009,Métiers du multimédia,7,M1801,Administration de systèmes d'information
+009,Métiers du multimédia,7,M1802,Expertise et support en systèmes d'information
+009,Métiers du multimédia,7,M1805,Études et développement informatique
+009,Métiers du multimédia,7,M1806,Conseil et maîtrise d'ouvrage en systèmes d'information
+009,Métiers du multimédia,7,M1810,Production et exploitation de systèmes d'information
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,A1301,Conseil et assistance technique en agriculture et environnement naturel
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,A1303,Ingénierie en agriculture et environnement naturel
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,C1202,Analyse de crédits et risques bancaires
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,E1103,Communication
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,F1101,Architecture du BTP et du paysage
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,F1106,Ingénierie et études du BTP
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,F1201,Conduite de travaux du BTP et de travaux paysagers
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,K1205,Information sociale
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,K1701,Personnel de la Défense
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,K1702,Direction de la sécurité civile et des secours
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,K1705,Sécurité civile et secours
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,K1802,Développement local
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,K1903,Défense et conseil juridique
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,K2106,Enseignement des écoles
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,K2301,Distribution et assainissement d'eau
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,M1205,Direction administrative et financière
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,M1207,Trésorerie et financement
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,M1705,Marketing
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,N1103,Magasinage et préparation de commandes
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,N1201,Affrètement transport
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,N1202,Gestion des opérations de circulation internationale des marchandises
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,N1301,Conception et organisation de la chaîne logistique
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,N1302,Direction de site logistique
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,N1303,Intervention technique d'exploitation logistique
+010,Métiers de l'humanitaire (hors santé et tertiaire),7,N4101,Conduite de transport de marchandises sur longue distance
+011,Métiers du nucléaire,7,F1204,Qualité Sécurité Environnement et protection santé du BTP
+011,Métiers du nucléaire,7,F1502,Montage de structures métalliques
+011,Métiers du nucléaire,7,F1605,Montage de réseaux électriques et télécoms
+011,Métiers du nucléaire,7,F1613,Travaux d'étanchéité et d'isolation
+011,Métiers du nucléaire,7,H1102,Management et ingénierie d'affaires
+011,Métiers du nucléaire,7,H1302,Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels
+011,Métiers du nucléaire,7,H1303,Intervention technique en Hygiène Sécurité Environnement -HSE- industriel
+011,Métiers du nucléaire,7,H1501,Direction de laboratoire d'analyse industrielle
+011,Métiers du nucléaire,7,H1502,Management et ingénierie qualité industrielle
+011,Métiers du nucléaire,7,H1503,Intervention technique en laboratoire d'analyse industrielle
+011,Métiers du nucléaire,7,H1506,Intervention technique qualité en mécanique et travail des métaux
+011,Métiers du nucléaire,7,H2701,Pilotage d'installation énergétique et pétrochimique
+011,Métiers du nucléaire,7,H2902,Chaudronnerie - tôlerie
+011,Métiers du nucléaire,7,H2913,Soudage manuel
+011,Métiers du nucléaire,7,H2914,Réalisation et montage en tuyauterie
+011,Métiers du nucléaire,7,I1101,Direction et ingénierie en entretien infrastructure et bâti
+011,Métiers du nucléaire,7,I1302,Installation et maintenance d'automatismes
+011,Métiers du nucléaire,7,I1304,Installation et maintenance d'équipements industriels et d'exploitation
+011,Métiers du nucléaire,7,I1305,Installation et maintenance électronique
+011,Métiers du nucléaire,7,I1309,Maintenance électrique
+011,Métiers du nucléaire,7,I1310,Maintenance mécanique industrielle
+011,Métiers du nucléaire,7,I1501,Intervention en grande hauteur
+011,Métiers du nucléaire,7,I1502,Intervention en milieu subaquatique
+011,Métiers du nucléaire,7,I1503,Intervention en milieux et produits nocifs
+012,Métiers auprès des enfants,7,G1202,Animation d'activités culturelles ou ludiques
+012,Métiers auprès des enfants,7,G1203,Animation de loisirs auprès d'enfants ou d'adolescents
+012,Métiers auprès des enfants,7,G1204,Éducation en activités sportives
+012,Métiers auprès des enfants,7,G1205,Personnel d'attractions ou de structures de loisirs
+012,Métiers auprès des enfants,7,J1304,Aide en puériculture
+012,Métiers auprès des enfants,7,J1507,Soins infirmiers spécialisés en puériculture
+012,Métiers auprès des enfants,7,K1202,Éducation de jeunes enfants
+012,Métiers auprès des enfants,7,K1206,Intervention socioculturelle
+012,Métiers auprès des enfants,7,K1207,Intervention socioéducative
+012,Métiers auprès des enfants,7,K1303,Assistance auprès d'enfants
+012,Métiers auprès des enfants,7,K1601,Gestion de l'information et de la documentation
+012,Métiers auprès des enfants,7,K2104,Éducation et surveillance au sein d'établissements d'enseignement
+012,Métiers auprès des enfants,7,K2105,Enseignement artistique
+012,Métiers auprès des enfants,7,K2106,Enseignement des écoles
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,A1401,Aide agricole de production fruitière ou viticole
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,A1402,Aide agricole de production légumière ou végétale
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,A1403,Aide d'élevage agricole et aquacole
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,D1106,Vente en alimentation
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,D1203,Hydrothérapie
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,D1204,Location de véhicules ou de matériel de loisirs
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,D1211,Vente en articles de sport et loisirs
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,D1501,Animation de vente
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,D1505,Personnel de caisse
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,D1507,Mise en rayon libre-service
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,G1101,Accueil touristique
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,G1201,"Accompagnement de voyages, d'activités culturelles ou sportives"
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,G1202,Animation d'activités culturelles ou ludiques
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,G1203,Animation de loisirs auprès d'enfants ou d'adolescents
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,G1204,Éducation en activités sportives
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,G1205,Personnel d'attractions ou de structures de loisirs
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,G1206,Personnel technique des jeux
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,G1403,Gestion de structure de loisirs ou d'hébergement touristique
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,G1501,Personnel d'étage
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,G1603,Personnel polyvalent en restauration
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,G1605,Plonge en restauration
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,G1702,Personnel du hall
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,G1801,"Café, bar brasserie"
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,G1803,Service en restauration
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,K1302,Assistance auprès d'adultes
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,K1303,Assistance auprès d'enfants
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,K1705,Sécurité civile et secours
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,L1203,Art dramatique
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,M1601,Accueil et renseignements
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,N4102,Conduite de transport de particuliers
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,N4104,Courses et livraisons express
+013,"Métiers saisonniers, de vacances / Jobs d'été",7,N4402,Exploitation et manoeuvre des remontées mécaniques
+014,Métiers des services à la personne à domicile,7,A1203,Aménagement et entretien des espaces verts
+014,Métiers des services à la personne à domicile,7,A1501,Aide aux soins animaux
+014,Métiers des services à la personne à domicile,7,A1503,Toilettage des animaux
+014,Métiers des services à la personne à domicile,7,D1202,Coiffure
+014,Métiers des services à la personne à domicile,7,D1208,Soins esthétiques et corporels
+014,Métiers des services à la personne à domicile,7,E1102,"Écriture d'ouvrages, de livres"
+014,Métiers des services à la personne à domicile,7,E1108,"Traduction, interprétariat"
+014,Métiers des services à la personne à domicile,7,G1203,Animation de loisirs auprès d'enfants ou d'adolescents
+014,Métiers des services à la personne à domicile,7,G1204,Éducation en activités sportives
+014,Métiers des services à la personne à domicile,7,G1602,Personnel de cuisine
+014,Métiers des services à la personne à domicile,7,I1203,Maintenance des bâtiments et des locaux
+014,Métiers des services à la personne à domicile,7,I1305,Installation et maintenance électronique
+014,Métiers des services à la personne à domicile,7,I1401,Maintenance informatique et bureautique
+014,Métiers des services à la personne à domicile,7,J1402,Diététique
+014,Métiers des services à la personne à domicile,7,J1403,Ergothérapie
+014,Métiers des services à la personne à domicile,7,J1404,Kinésithérapie
+014,Métiers des services à la personne à domicile,7,J1409,Pédicurie et podologie
+014,Métiers des services à la personne à domicile,7,J1412,Rééducation en psychomotricité
+014,Métiers des services à la personne à domicile,7,J1501,"Soins d'hygiène, de confort du patient"
+014,Métiers des services à la personne à domicile,7,J1506,Soins infirmiers généralistes
+014,Métiers des services à la personne à domicile,7,K1101,Accompagnement et médiation familiale
+014,Métiers des services à la personne à domicile,7,K1103,Développement personnel et bien-être de la personne
+014,Métiers des services à la personne à domicile,7,K1201,Action sociale
+014,Métiers des services à la personne à domicile,7,K1301,Accompagnement médicosocial
+014,Métiers des services à la personne à domicile,7,K1302,Assistance auprès d'adultes
+014,Métiers des services à la personne à domicile,7,K1303,Assistance auprès d'enfants
+014,Métiers des services à la personne à domicile,7,K1304,Services domestiques
+014,Métiers des services à la personne à domicile,7,K1305,Intervention sociale et familiale
+014,Métiers des services à la personne à domicile,7,K2106,Enseignement des écoles
+014,Métiers des services à la personne à domicile,7,K2107,Enseignement général du second degré
+014,Métiers des services à la personne à domicile,7,K2501,Gardiennage de locaux
+014,Métiers des services à la personne à domicile,7,K2503,Sécurité et surveillance privées
+014,Métiers des services à la personne à domicile,7,K2602,Conseil en services funéraires
+014,Métiers des services à la personne à domicile,7,K2603,Thanatopraxie
+014,Métiers des services à la personne à domicile,7,L1101,Animation musicale et scénique
+014,Métiers des services à la personne à domicile,7,L1204,Arts du cirque et arts visuels
+014,Métiers des services à la personne à domicile,7,M1602,Opérations administratives
+014,Métiers des services à la personne à domicile,7,M1607,Secrétariat
+014,Métiers des services à la personne à domicile,7,N4102,Conduite de transport de particuliers
+014,Métiers des services à la personne à domicile,7,N4105,Conduite et livraison par tournées sur courte distance
+015,Métiers du sport et autour du sport,7,D1203,Hydrothérapie
+015,Métiers du sport et autour du sport,7,D1211,Vente en articles de sport et loisirs
+015,Métiers du sport et autour du sport,7,E1103,Communication
+015,Métiers du sport et autour du sport,7,E1106,Journalisme et information média
+015,Métiers du sport et autour du sport,7,E1107,Organisation d'évènementiel
+015,Métiers du sport et autour du sport,7,G1201,"Accompagnement de voyages, d'activités culturelles ou sportives"
+015,Métiers du sport et autour du sport,7,G1204,Éducation en activités sportives
+015,Métiers du sport et autour du sport,7,G1403,Gestion de structure de loisirs ou d'hébergement touristique
+015,Métiers du sport et autour du sport,7,J1102,Médecine généraliste et spécialisée
+015,Métiers du sport et autour du sport,7,J1402,Diététique
+015,Métiers du sport et autour du sport,7,J1404,Kinésithérapie
+015,Métiers du sport et autour du sport,7,K2107,Enseignement général du second degré
+015,Métiers du sport et autour du sport,7,L1201,Danse
+015,Métiers du sport et autour du sport,7,L1204,Arts du cirque et arts visuels
+015,Métiers du sport et autour du sport,7,L1303,Promotion d'artistes et de spectacles
+015,Métiers du sport et autour du sport,7,L1401,Sportif professionnel
+015,Métiers du sport et autour du sport,7,M1705,Marketing
+015,Métiers du sport et autour du sport,7,N3101,Encadrement de la navigation maritime
+016,Métiers de l'ingénierie,7,A1303,Ingénierie en agriculture et environnement naturel
+016,Métiers de l'ingénierie,7,F1103,Contrôle et diagnostic technique du bâtiment
+016,Métiers de l'ingénierie,7,F1105,Études géologiques
+016,Métiers de l'ingénierie,7,F1106,Ingénierie et études du BTP
+016,Métiers de l'ingénierie,7,F1107,Mesures topographiques
+016,Métiers de l'ingénierie,7,F1203,Direction et ingénierie d'exploitation de gisements et de carrières
+016,Métiers de l'ingénierie,7,F1204,Qualité Sécurité Environnement et protection santé du BTP
+016,Métiers de l'ingénierie,7,H1101,Assistance et support technique client
+016,Métiers de l'ingénierie,7,H1102,Management et ingénierie d'affaires
+016,Métiers de l'ingénierie,7,H1206,"Management et ingénierie études, recherche et développement industriel"
+016,Métiers de l'ingénierie,7,H1302,Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels
+016,Métiers de l'ingénierie,7,H1401,Management et ingénierie gestion industrielle et logistique
+016,Métiers de l'ingénierie,7,H1402,Management et ingénierie méthodes et industrialisation
+016,Métiers de l'ingénierie,7,H1501,Direction de laboratoire d'analyse industrielle
+016,Métiers de l'ingénierie,7,H1502,Management et ingénierie qualité industrielle
+016,Métiers de l'ingénierie,7,H2502,Management et ingénierie de production
+016,Métiers de l'ingénierie,7,I1101,Direction et ingénierie en entretien infrastructure et bâti
+016,Métiers de l'ingénierie,7,I1102,Management et ingénierie de maintenance industrielle
+016,Métiers de l'ingénierie,7,K2302,Management et inspection en environnement urbain
+016,Métiers de l'ingénierie,7,M1201,Analyse et ingénierie financière
+016,Métiers de l'ingénierie,7,M1802,Expertise et support en systèmes d'information
+016,Métiers de l'ingénierie,7,M1804,Études et développement de réseaux de télécoms
+016,Métiers de l'ingénierie,7,M1805,Études et développement informatique
+016,Métiers de l'ingénierie,7,M1806,Conseil et maîtrise d'ouvrage en systèmes d'information
+016,Métiers de l'ingénierie,7,M1808,Information géographique
+016,Métiers de l'ingénierie,7,M1809,Information météorologique
+016,Métiers de l'ingénierie,7,M1810,Production et exploitation de systèmes d'information
+016,Métiers de l'ingénierie,7,N1301,Conception et organisation de la chaîne logistique
+016,Métiers de l'ingénierie,7,N2102,Pilotage et navigation technique aérienne
+017,Métiers accessibles sans diplôme et sans expérience,7,A1401,Aide agricole de production fruitière ou viticole
+017,Métiers accessibles sans diplôme et sans expérience,7,A1402,Aide agricole de production légumière ou végétale
+017,Métiers accessibles sans diplôme et sans expérience,7,A1403,Aide d'élevage agricole et aquacole
+017,Métiers accessibles sans diplôme et sans expérience,7,A1412,Fabrication et affinage de fromages
+017,Métiers accessibles sans diplôme et sans expérience,7,A1413,Fermentation de boissons alcoolisées
+017,Métiers accessibles sans diplôme et sans expérience,7,D1105,Poissonnerie
+017,Métiers accessibles sans diplôme et sans expérience,7,D1205,Nettoyage d'articles textiles ou cuirs
+017,Métiers accessibles sans diplôme et sans expérience,7,D1403,Relation commerciale auprès de particuliers
+017,Métiers accessibles sans diplôme et sans expérience,7,D1501,Animation de vente
+017,Métiers accessibles sans diplôme et sans expérience,7,D1505,Personnel de caisse
+017,Métiers accessibles sans diplôme et sans expérience,7,D1507,Mise en rayon libre-service
+017,Métiers accessibles sans diplôme et sans expérience,7,E1202,Production en laboratoire cinématographique
+017,Métiers accessibles sans diplôme et sans expérience,7,E1203,Production en laboratoire photographique
+017,Métiers accessibles sans diplôme et sans expérience,7,E1304,Façonnage et routage
+017,Métiers accessibles sans diplôme et sans expérience,7,F1704,Préparation du gros oeuvre et des travaux publics
+017,Métiers accessibles sans diplôme et sans expérience,7,F1706,Préfabrication en béton industriel
+017,Métiers accessibles sans diplôme et sans expérience,7,G1206,Personnel technique des jeux
+017,Métiers accessibles sans diplôme et sans expérience,7,G1501,Personnel d'étage
+017,Métiers accessibles sans diplôme et sans expérience,7,G1603,Personnel polyvalent en restauration
+017,Métiers accessibles sans diplôme et sans expérience,7,G1604,Fabrication de crêpes ou pizzas
+017,Métiers accessibles sans diplôme et sans expérience,7,G1605,Plonge en restauration
+017,Métiers accessibles sans diplôme et sans expérience,7,G1702,Personnel du hall
+017,Métiers accessibles sans diplôme et sans expérience,7,G1801,"Café, bar brasserie"
+017,Métiers accessibles sans diplôme et sans expérience,7,H2101,Abattage et découpe des viandes
+017,Métiers accessibles sans diplôme et sans expérience,7,H2604,Montage de produits électriques et électroniques
+017,Métiers accessibles sans diplôme et sans expérience,7,H2605,Montage et câblage électronique
+017,Métiers accessibles sans diplôme et sans expérience,7,H2803,Façonnage et émaillage en industrie céramique
+017,Métiers accessibles sans diplôme et sans expérience,7,H2905,Conduite d'équipement de formage et découpage des matériaux
+017,Métiers accessibles sans diplôme et sans expérience,7,H2906,Conduite d'installation automatisée ou robotisée de fabrication mécanique
+017,Métiers accessibles sans diplôme et sans expérience,7,H2909,Montage-assemblage mécanique
+017,Métiers accessibles sans diplôme et sans expérience,7,H3302,"Opérations manuelles d'assemblage, tri ou emballage"
+017,Métiers accessibles sans diplôme et sans expérience,7,H3303,"Préparation de matières et produits industriels (broyage, mélange, ...)"
+017,Métiers accessibles sans diplôme et sans expérience,7,H3402,Conduite de traitement par dépôt de surface
+017,Métiers accessibles sans diplôme et sans expérience,7,I1201,Entretien d'affichage et mobilier urbain
+017,Métiers accessibles sans diplôme et sans expérience,7,I1501,Intervention en grande hauteur
+017,Métiers accessibles sans diplôme et sans expérience,7,K1302,Assistance auprès d'adultes
+017,Métiers accessibles sans diplôme et sans expérience,7,K1303,Assistance auprès d'enfants
+017,Métiers accessibles sans diplôme et sans expérience,7,K1304,Services domestiques
+017,Métiers accessibles sans diplôme et sans expérience,7,K1701,Personnel de la Défense
+017,Métiers accessibles sans diplôme et sans expérience,7,K2201,Blanchisserie industrielle
+017,Métiers accessibles sans diplôme et sans expérience,7,K2202,Lavage de vitres
+017,Métiers accessibles sans diplôme et sans expérience,7,K2204,Nettoyage de locaux
+017,Métiers accessibles sans diplôme et sans expérience,7,K2303,Nettoyage des espaces urbains
+017,Métiers accessibles sans diplôme et sans expérience,7,K2304,Revalorisation de produits industriels
+017,Métiers accessibles sans diplôme et sans expérience,7,K2501,Gardiennage de locaux
+017,Métiers accessibles sans diplôme et sans expérience,7,M1401,Conduite d'enquêtes
+017,Métiers accessibles sans diplôme et sans expérience,7,M1601,Accueil et renseignements
+017,Métiers accessibles sans diplôme et sans expérience,7,M1603,Distribution de documents
+017,Métiers accessibles sans diplôme et sans expérience,7,M1606,Saisie de données
+017,Métiers accessibles sans diplôme et sans expérience,7,N1101,Conduite d'engins de déplacement des charges
+017,Métiers accessibles sans diplôme et sans expérience,7,N1102,Déménagement
+017,Métiers accessibles sans diplôme et sans expérience,7,N1103,Magasinage et préparation de commandes
+017,Métiers accessibles sans diplôme et sans expérience,7,N1104,Manoeuvre et conduite d'engins lourds de manutention
+017,Métiers accessibles sans diplôme et sans expérience,7,N1105,Manutention manuelle de charges
+017,Métiers accessibles sans diplôme et sans expérience,7,N2203,Exploitation des pistes aéroportuaires
+017,Métiers accessibles sans diplôme et sans expérience,7,N3203,Manutention portuaire
+017,Métiers accessibles sans diplôme et sans expérience,7,N4101,Conduite de transport de marchandises sur longue distance
+017,Métiers accessibles sans diplôme et sans expérience,7,N4102,Conduite de transport de particuliers
+017,Métiers accessibles sans diplôme et sans expérience,7,N4103,Conduite de transport en commun sur route
+017,Métiers accessibles sans diplôme et sans expérience,7,N4104,Courses et livraisons express
+017,Métiers accessibles sans diplôme et sans expérience,7,N4105,Conduite et livraison par tournées sur courte distance
