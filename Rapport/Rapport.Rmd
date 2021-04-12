@@ -1,0 +1,55 @@
+---
+title: "Rapport"
+output:
+  bookdown::pdf_document2:
+        toc: false
+        number_sections: true
+        fig_width: 7
+        fig_height: 6
+        fig_caption: true
+        highlight: default
+        keep_tex: yes
+        template: template.tex
+        includes:
+          in_header: preamble.tex
+themeoptions: "coding=utf8"
+classoption: 'a4paper'
+lang: "english"
+fontsize: 12pt
+---
+
+<!-- output: -->
+<!--   bookdown::word_document2: -->
+<!--     toc: true -->
+<!-- always_allow_html: true -->
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      fig.path = "img/")
+library(kableExtra)
+```
+
+\textit{Instructions (to remove):}
+\begin{enumerate}
+    \item write and present clearly and synthetically your project 
+    \item Add all the references in Appendix (use .bib \cite{10test})
+    \item 1 page maximum 
+    \item  You can add any non-textual content (plots, table, images, schemes...) 
+    \item Should point to your notebook (colab or github/gitlab (e.g. with footnote \footnote{https://nlp-ensae.github.io/}))
+\end{enumerate}
+
+:::: {.abstract data-latex=""}
+\ 
+::::
+
+# Problem Framing
+
+# Experiments Protocol
+# Results
+
+# Discussion/Conclusion
+
+
+\bibliography{biblio}
+<!-- \bibliographystyle{acl_natbib} -->
+\appendix 
