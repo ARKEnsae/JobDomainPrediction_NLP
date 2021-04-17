@@ -39,7 +39,7 @@ library(kableExtra)
 <!-- \end{enumerate} -->
 
 :::: {.abstract data-latex=""}
-\ Using different NLP models (mainly LSTM and CamemBERT) we predicted jobs' domains using job descriptions provided by French governmental agencies.
+Using different NLP models (mainly LSTM and CamemBERT) we predicted jobs' domains using job descriptions provided by French governmental agencies.
 ::::
 
 #	Introduction: problem framing and datasets {#sec:intro}
@@ -52,7 +52,7 @@ Each job also contains many denominations (which are many names which refers to 
 For this project, we tried to answer to the following research question: Using Natural Language Processing modeling, is it possible to properly guess the domain of a job simply by reading its description?
 \end{tcolorbox}
 
-To answer this question, we used two datasets provided by **Pôle Emploi** and web scraped additional information from **Onisep** (another governmental agency which provides students, parents and teacher information about jobs and training courses)^[More details about the datasets and the methods are provided in the .ipynb file on our github repository http://github.com/ARKEnsae/JobDomainPrediction_NLP].
+To answer this question, we used two datasets provided by **Pôle Emploi** and web scraped additional information from **Onisep** (another governmental agency which provides students, parents and teachers information about jobs and training courses)^[More details about the datasets and the methods are provided in the .ipynb file on our github repository http://github.com/ARKEnsae/JobDomainPrediction_NLP.].
 The final dataset is composed of **1 247 descriptions** belonging to **14 different classes** (major domains)^[Given the limited size of the database used, we only tried here to guess the major domain classification.]. 
 
 To predict the different major domains, we split the datasets into 2 sets (training and test sets) and performed **9 models of Sequence Classification** on the training set using `Pytorch` (see section \ref{sec:exp}).
@@ -149,7 +149,7 @@ We can think of online CVs or LinkedIn job offers. However, collecting such data
 \textbf{Model 9}:   CamemBERT with domain shift & 0.57                         & 0.62                         \\ \hline
 \end{tabular}
 \end{center}
-\caption{Macro and weighted F1 scores for our 9 models}\label{tableau}
+\caption{Macro and weighted F1 scores for our 9 models.}\label{tableau}
 \footnotesize
 \emph{Note: The macro and weighted averages respectively correspond to the averages of F1 scores per class without and with considering the proportion for each label in the dataset. 
 fixedL = fixed-length inputs / varL = variable-length inputs / RWE = random initialization of word-embeddings / W2V = word2vec word-embeddings / frozen = frozen word-embedding weights.}
@@ -164,7 +164,7 @@ fixedL = fixed-length inputs / varL = variable-length inputs / RWE = random init
 \centering
   \includegraphics[height=6cm]{img/matrix_model9.png}
 \end{minipage}
-  \caption{Confusion matrices for Models 8 (left) and 9 (right)}
+  \caption{Confusion matrices for Models 8 (left) and 9 (right).}
   \label{fig:fig1}
 %\vspace{0.1cm}
 \footnotesize
@@ -188,13 +188,13 @@ Bernd~Bischl Probst~Philipp and Anne-Laure Boulesteix. 2018.
 \newblock \emph{arXiv preprint arXiv:1802.09596}.
 
 \bibitem[{Probst~Philipp and Boulesteix(2018)}]{link1}
-\url{https://towardsdatascience.com/multiclass-text-classification-using-lstm-in-pytorch-eac56baed8df}
+\url{https://towardsdatascience.com/multiclass-text-classification-using-lstm-in-pytorch-eac56baed8df}.
 
 \bibitem[{Probst~Philipp and Boulesteix(2018)}]{link2}
-\url{https://jovian.ai/aakanksha-ns/lstm-multiclass-text-classification}
+\url{https://jovian.ai/aakanksha-ns/lstm-multiclass-text-classification}.
 
 \bibitem[{Probst~Philipp and Boulesteix(2018)}]{link3}
-\url{https://towardsdatascience.com/multi-class-text-classification-with-deep-learning-using-bert-b59ca2f5c613}
+\url{https://towardsdatascience.com/multi-class-text-classification-with-deep-learning-using-bert-b59ca2f5c613}.
 
 \end{thebibliography}
 
