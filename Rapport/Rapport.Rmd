@@ -23,6 +23,12 @@ fontsize: 12pt
 <!--     toc: true -->
 <!-- always_allow_html: true -->
 
+\begin{textblock*}{\textwidth}(-8cm,-6cm)
+\begin{center}
+\includegraphics[height=2.5cm]{img/LOGO-ENSAE-avatar.png}
+\end{center}
+\end{textblock*}
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE,
                       fig.path = "img/")

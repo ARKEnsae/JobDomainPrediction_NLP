@@ -1,4 +1,4 @@
-# NLP for Job Domain Prediction
+# NLP for Job Domain Prediction  <img src="Rapport/img/LOGO-ENSAE-avatar.png" align="right" alt=""  width="100"/>
 
 Projet de fin de semestre pour le cours de Machine Learning for Natural Language Processing (ENSAE 3A) @antuki @AQLT
 
