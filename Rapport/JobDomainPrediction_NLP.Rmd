@@ -50,7 +50,7 @@ Using different NLP models (mainly LSTM and CamemBERT) we predicted jobs' domain
 
 #	Introduction: problem framing and datasets {#sec:intro}
 
-Pôle Emploi is the French governmental agency which registers unemployed people and helps them find jobs and provides them with financial aid.
+Pôle Emploi is the French governmental agency which registers unemployed people, helps them find jobs and provides them with financial aid.
 To offer suitable jobs, they use a classification list of jobs called the “ROME” nomenclature^[A ROME code corresponds to a job and the 532 jobs of the database are classified in 110 professional domains (“domaine professionnel”) and 14 major domains (“grands domaines”).
 Each job also contains many denominations (which are many names which refers to the same ROME code).].
 
@@ -58,8 +58,8 @@ Each job also contains many denominations (which are many names which refers to 
 For this project, we tried to answer to the following research question: Using Natural Language Processing modeling, is it possible to properly guess the domain of a job simply by reading its description?
 \end{tcolorbox}
 
-To answer this question, we used two datasets provided by **Pôle Emploi** and web scraped additional information from **Onisep** (another governmental agency which provides students, parents and teachers information about jobs and training courses)^[More details about the datasets and the methods are provided in the .ipynb file on our github repository http://github.com/ARKEnsae/JobDomainPrediction_NLP.].
-The final dataset is composed of **1 247 descriptions** belonging to **14 different classes** (major domains)^[Given the limited size of the database used, we only tried here to guess the major domain classification.]. 
+To answer this question, we used two datasets provided by **Pôle Emploi** and web scraped additional information from **Onisep** (another governmental agency which provides students, parents and teachers information about jobs and training courses)^[More details about the datasets and the methods are provided in the .ipynb file in our github repository http://github.com/ARKEnsae/JobDomainPrediction_NLP.].
+The final dataset is composed of **1 247 descriptions** belonging to **14 different classes** (major domains)^[Given the limited size of the database used, we only tried here to guess the major domain classification (14 classes).]. 
 
 To predict the different major domains, we split the datasets into 2 sets (training and test sets) and performed **9 models of Sequence Classification** on the training set using `Pytorch` (see section \ref{sec:exp}).
 Once fit, we evaluated the model on the test set (unseen jobs and denominations) using F1 scores per class. 
@@ -70,7 +70,7 @@ To perform Sequence Classification, we used different models, briefly described 
  
 ##	Model 1 = Baseline: SVM on word2vec sentence-embeddings 
 
-For Model 1, we used pre-trained word-embeddings obtained from a French corpus^[Available at https://fauconnier.github.io. The model was trained in the [FrWac corpus](https://wacky.sslmit.unibo.it/doku.php?id=corpora) of  1.6 billion of words.] trained with a skip-gram word2vec approach and an embedding of size 200.
+For Model 1, we used pre-trained word-embeddings obtained from a French corpus^[Available at https://fauconnier.github.io. The model was trained with the [FrWac corpus](https://wacky.sslmit.unibo.it/doku.php?id=corpora) of  1.6 billion of words.] trained with a skip-gram word2vec approach and an embedding of size 200.
 It has the drawback to probably be a bit less performant than if we trained it ourselves in the specific domain of jobs, but we made this choice due to our few number of observations.
 In this simple model, each sentence-embedding is obtained by performing the average of word-embeddings of all words in the sentence.
 Finally, we use the supervised learning model *SVM* to perform data classification. 
@@ -82,7 +82,7 @@ A LSTM uses an embedding layer.
 For Models 2 and 3, this layer is initialized with random weights trained simultaneously with backpropagation as any other weights.
 Model 1 uses fixed-length inputs whereas Model 2 accepts variable-length descriptions of jobs and is more performant (but increases the training time).
 
-Models 4 and 5 are respectively the same as models 2 and 3 but we initialized the embedding layer with the pretrained word2vec embedding used for Model 1.
+Models 4 and 5 are respectively the same as Models 2 and 3 but we initialized the embedding layer with the pretrained word2vec embedding used for Model 1.
 For Models 6 and 7, we do the same, but we freeze the updating of the word-embedding weights during the training. 
 
 We tried to improve the performance of Model 7 (best LSTM model) by tuning (\citet{probst}) learning rate which is known to be one of its most crucial hyperparameters (\citet{greff}).
@@ -94,7 +94,7 @@ For our last models, we use the famous bidirectional transformer BERT. The pre-t
 For that, we use the `BertForSequenceClassification` function which uses the model transformer with a linear layer on top of the pooled output.
 
 For Model 8, we used the same training and tests sets as previous models.
-For Model 9, we trained the model on the Onisep dataset and tested it on the Pôle Emploi dataset to see if there is a domain shift between the 2 datasets. 
+For Model 9, we trained the model on the Onisep dataset and tested it on the Pôle Emploi dataset to see if there is a **domain shift** between the 2 datasets. 
 
 #	Results : Quantitative and Qualitative Evaluation {#sec:results}
 
@@ -134,7 +134,7 @@ We can think of online CVs or LinkedIn job offers. However, collecting such data
 \setcounter{page}{0}
 \pagenumbering{roman}
 
-# Annexe {.unnumbered}
+# Appendix {.unnumbered}
 
 
 
